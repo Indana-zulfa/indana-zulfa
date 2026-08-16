@@ -30,7 +30,6 @@ I have a background in Informatics with an interest in Data Analytics, AI, Finan
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
 
-
 ## 🤝 Connect with Me
 
 <p>
