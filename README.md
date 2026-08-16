@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Indana+Zulfa;Data+Analytics+%7C+AI+%7C+Finance+%7C+Technology" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Indana+Zulfa" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <strong>Data Analytics | AI | Finance | Technology</strong>
 </p>
 
 <hr>
@@ -50,8 +54,8 @@ I have a background in Informatics with an interest in Data Analytics, AI, Finan
   </a>
 </p>
 
-<hr>
+<br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Keep+learning%2C+keep+growing+%E2%9C%A8" alt="Footer Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
 </p>
