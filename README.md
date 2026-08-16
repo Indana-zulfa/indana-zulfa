@@ -2,13 +2,13 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Indana+Zulfa;Data+Analytics+%7C+AI+%7C+Finance+%7C+Technology" alt="Typing SVG" />
 </p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<hr>
 
 ## 👩🏻‍💻 About Me
 
 I have a background in Informatics with an interest in Data Analytics, AI, Finance, and Technology. I enjoy working with data to uncover insights, understand business problems, and develop practical solutions using technology. I’m particularly interested in applying data and AI to real-world challenges, especially in the finance and fintech space.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<hr>
 
 ## 🛠️ Tech Stack & Skills
 
@@ -34,20 +34,7 @@ I have a background in Informatics with an interest in Data Analytics, AI, Finan
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## 📊 Featured Projects
-
-### 💳 Finance Transaction Analysis
-Python-based analysis of financial transactions and customer behavior, including exploratory data analysis, transaction performance, customer activity, and business insights.
-
-### 🔐 Fraud Detection
-Machine learning project focused on identifying potentially anomalous financial transactions using classification and data analysis techniques.
-
-### ⛓️ Ethereum Transaction Analysis
-Analysis of blockchain transaction data to identify patterns and distinguish normal and anomalous transactions.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<hr>
 
 ## 🤝 Connect with Me
 
@@ -63,8 +50,8 @@ Analysis of blockchain transaction data to identify patterns and distinguish nor
   </a>
 </p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<hr>
 
 <p align="center">
-  ✨ Thank you for visiting my profile! ✨
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Keep+learning%2C+keep+growing+%E2%9C%A8" alt="Footer Animation" />
 </p>
